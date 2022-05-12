@@ -17,6 +17,6 @@ mt5-small
  - mT5_maxmin_pred.csv:予測候補(N=20)のリスト(○)
  - mT5_maxmin_result.csv:正解・mask・予測結果
 
-mpT5卒論モデル
+mpT5卒論モデル(8/50正解)
  - mpT5b_maxmin_pred.csv:予測候補(N=20)のリスト(○)
  - mpT5b_maxmin_result.csv:正解・mask・予測結果
