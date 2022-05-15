@@ -1,0 +1,51 @@
+,mask
+0,"np . <extra_id_0>imum ( [ 2 , 3 , 4 ] , [ 1 , 5 , 2 ] )"
+1,"<extra_id_0> ( k for k , v in x . items ( ) if v != 0 )"
+2,"<extra_id_0> ( k for k , v in x . items ( ) if v != 0 )"
+3,"len ( <extra_id_0> ( words , key = len ) )"
+4,"<extra_id_0> ( lis , key = lambda item : item [ 1 ] ) [ 0 ]"
+5,"<extra_id_0> ( lis , key = itemgetter ( 1 ) ) [ 0 ]"
+6,"b = models . CharField ( <extra_id_0>_length = 7 , default = '0000000' , editable = False )"
+7,<extra_id_0> ( [ max ( i ) for i in matrix ] )
+8,"os . system ( 'gnome-ter<extra_id_0>al -e \'bash -c ""sudo apt-get update; exec bash""\'' )"
+9,"max ( x . <extra_id_0> ( ) , x . max ( ) , key = abs )"
+10,"datetime . datetime . combine ( my_date , datetime . time . <extra_id_0> )"
+11,"a [ np . arg<extra_id_0> ( a [ : , ( 1 ) ] ) ]"
+12,"print ( <extra_id_0> ( d , key = lambda x : ( d [ x ] [ 'salary' ] , d [ x ] [ 'bonus' ] ) ) )"
+13,"np . array ( [ np . arange ( 3 ) , np . arange ( 2 , -1 , -1 ) , np . ones ( ( 3 , ) ) ] ) . <extra_id_0> ( axis = 0 )"
+14,"<extra_id_0> ( d , key = lambda x : d [ x ] [ 'count' ] )"
+15,df . columns [ df . <extra_id_0> ( ) >  0 ]
+16,"print ( <extra_id_0> ( 1 , 2 , 3 ) )"
+17,[ <extra_id_0> ( len ( str ( x ) ) for x in line ) for line in zip ( * foo ) ]
+18,<extra_id_0> ( [ x for x in num_list if x >  2 ] )
+19,"<extra_id_0> ( dicts , key = lambda x : ( abs ( 1.77672955975 - x [ 'ratio' ] ) , - x [ 'pixels' ] ) )"
+20,arr [ arr != 0 ] . <extra_id_0> ( )
+21,"<extra_id_0> ( alkaline_earth_values , key = lambda x : x [ 1 ] )"
+22,df . groupby ( df . index . map ( lambda t : t . <extra_id_0>ute ) )
+23,"max ( <extra_id_0> ( my_value , max_value ) , min_value )"
+24,"<extra_id_0> ( list ( MyCount . keys ( ) ) , key = int )"
+25,"[ <extra_id_0> ( abs ( x ) for x in arr [ i : i + 4 ] ) for i in range ( 0 , len ( arr ) , 4 ) ]"
+26,"<extra_id_0>_item = max ( a_list , key = operator . itemgetter ( 1 ) )"
+27,"<extra_id_0> ( a_list , key = operator . itemgetter ( 1 ) )"
+28,"pandas . read_csv ( filename , sep = '\t' , lineter<extra_id_0>ator = '\r' )"
+29,webbrowser . open ( 'http://somesite.com/ad<extra_id_0>panel/index.php' )
+30,"<extra_id_0> ( myList , key = lambda x : abs ( x - myNumber ) )"
+31,<extra_id_0> ( len ( word ) for word in i )
+32,"len ( <extra_id_0> ( i , key = len ) )"
+33,"d . apply ( lambda row : <extra_id_0> ( [ row [ 'A' ] , row [ 'B' ] ] ) - row [ 'C' ] , axis = 1 )"
+34,"quadmesh . set_clim ( v<extra_id_0> = 0 , vmax = 15 )"
+35,"df . groupby ( [ 'col5' , 'col2' ] ) . size ( ) . groupby ( level = 1 ) . <extra_id_0> ( )"
+36,"<extra_id_0> ( enumerate ( a ) , key = lambda x : x [ 1 ] ) [ 0 ]"
+37,"np . ma . array ( np . tile ( arr , 2 ) . reshape ( 2 , 3 ) , mask = ~ cond ) . arg<extra_id_0> ( axis = 1 )"
+38,"<extra_id_0> ( lst , key = lambda x : x [ 'score' ] )"
+39,"pandas . set_option ( 'display.<extra_id_0>_columns' , 7 )"
+40,"pandas . set_option ( 'display.<extra_id_0>_columns' , None )"
+41,a . index ( <extra_id_0> ( a ) )
+42,"<extra_id_0> ( list , key = lambda x : float ( 'inf' ) if math . isnan ( x [ 1 ] ) else x [ 1 ] )"
+43,p . ter<extra_id_0>ate ( )
+44,"<extra_id_0> ( ld , key = lambda d : d [ 'size' ] )"
+45,"<extra_id_0> ( enumerate ( a ) , key = lambda x : abs ( x [ 1 ] - 11.5 ) )"
+46,df . loc [ df [ 'Value' ] . idx<extra_id_0> ( ) ]
+47,<extra_id_0> ( test_string . rfind ( i ) for i in '([{' )
+48,"print ( <extra_id_0> ( x , key = sum ) )"
+49,"( t - datetime . timedelta ( hours = 1 , <extra_id_0>utes = 10 ) )"
